@@ -4,7 +4,7 @@
 ### Aktif çalışıyor.... 😅
 
 <p align="center">
-  <a href="https://ibb.co/Vp8TtX1"><img 
+  <img src="https://i.ibb.co/prpdxC7/Logopit-1663987970479.png"
 </p>
 
 <h3>Gereksinimler 📝</h3>
