@@ -4,7 +4,7 @@
 ### Aktif çalışıyor.... 😅
 
 <p align="center">
-  <img src="https://i.ibb.co/khRz42f/Turkish-Voice.jpg">
+  <a href="https://ibb.co/Vp8TtX1"><img 
 </p>
 
 <h3>Gereksinimler 📝</h3>
